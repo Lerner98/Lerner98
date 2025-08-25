@@ -18,4 +18,4 @@
 ---
 
 ## 🤝 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/lerner98](https://www.linkedin.com/in/guy-lerner-5755bb243/))  
+- [LinkedIn](https://www.linkedin.com/in/guy-lerner-5755bb243/)
