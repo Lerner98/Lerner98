@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Guy (Lerner98)
 
-<!--
-**Lerner98/Lerner98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Enthusiast & Developer  
+⚡ Passionate about building clean, functional, and impactful solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Activity
+![GitHub contribution chart](https://ghchart.rshah.org/00b894/Lerner98)
+
+---
+
+## 🌱 Current Interests
+- Full-stack development & system design  
+- AI & Machine Learning in real-world use cases  
+- Developer workflows, automation & optimization  
+
+---
+
+## 🤝 Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/lerner98](https://www.linkedin.com/in/guy-lerner-5755bb243/))  
