@@ -5,11 +5,6 @@
 
 ---
 
-## 📊 GitHub Activity
-![GitHub contribution chart](https://ghchart.rshah.org/00b894/Lerner98)
-
----
-
 ## 🌱 Current Interests
 - Full-stack development & system design  
 - AI & Machine Learning in real-world use cases  
