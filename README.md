@@ -7,19 +7,19 @@
 ---
 
 I work at the layer where systems programming meets applied AI. Local-first
-by default, cloud opt-in by design. Privacy as architecture in either mode.
+by default, cloud opt-in by design. Privacy as architecture, not feature.
 
 ---
 
-### What I work on
+### what i work on
 
-- **Rust & systems programming** — async runtimes, FFI, native desktop apps
-- **LLM infrastructure** — local inference, quantization, structured generation
-- **Agent runtimes** — task planning, tool use, safety constraints
-- **Retrieval & grounding** — hybrid search, embeddings, citation
-- **Privacy & security** — data handling, audit design, network boundaries
+- **rust & systems programming** — async runtimes, FFI, native desktop apps
+- **llm infrastructure** — local inference, quantization, structured generation
+- **agent runtimes** — task planning, tool use, safety constraints
+- **retrieval & grounding** — hybrid search, embeddings, citation
+- **privacy & security** — data handling, audit design, network boundaries
 
-### Stack
+### stack
 
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
@@ -35,4 +35,4 @@ by default, cloud opt-in by design. Privacy as architecture in either mode.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/guy-lerner-5755bb243/)
+<sub>reach: [linkedin](https://www.linkedin.com/in/guy-lerner-5755bb243/)</sub>
