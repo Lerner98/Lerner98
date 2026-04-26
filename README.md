@@ -11,15 +11,15 @@ by default, cloud opt-in by design. Privacy as architecture, not feature.
 
 ---
 
-### what i work on
+### What I work on
 
-- **rust & systems programming** — async runtimes, FFI, native desktop apps
-- **llm infrastructure** — local inference, quantization, structured generation
-- **agent runtimes** — task planning, tool use, safety constraints
-- **retrieval & grounding** — hybrid search, embeddings, citation
-- **privacy & security** — data handling, audit design, network boundaries
+- **Rust & systems programming** — async runtimes, FFI, native desktop apps
+- **LLM infrastructure** — local inference, quantization, structured generation
+- **Agent runtimes** — task planning, tool use, safety constraints
+- **Retrieval & grounding** — hybrid search, embeddings, citation
+- **Privacy & security** — data handling, audit design, network boundaries
 
-### stack
+### Stack
 
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
@@ -35,4 +35,8 @@ by default, cloud opt-in by design. Privacy as architecture, not feature.
 
 ---
 
-<sub>reach: [linkedin](https://www.linkedin.com/in/guy-lerner-5755bb243/)</sub>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lernerguy/)
+
+</div>
